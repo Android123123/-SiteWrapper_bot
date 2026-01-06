@@ -1,3 +1,7 @@
+![Preview](webapp.png)
+
+
+
 \# Website → Android App (APK)
 
 
@@ -155,6 +159,7 @@ Website → APK → Done.
 \- Not intended for complex native apps
 
 \- Best suited for content-driven websites
+
 
 
 
