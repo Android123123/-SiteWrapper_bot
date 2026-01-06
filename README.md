@@ -120,7 +120,9 @@ Website → APK → Done.
 
 👉 \*\*Use the Telegram bot:\*\*  
 
-\*\*@SiteWrapper\_bot\*\*
+👉 [@YourBotName](https://t.me/SiteWrapper_bot)
+
+[Visit website](https://android123123.github.io/appmaker/)
 
 
 
@@ -159,6 +161,7 @@ Website → APK → Done.
 \- Not intended for complex native apps
 
 \- Best suited for content-driven websites
+
 
 
 
